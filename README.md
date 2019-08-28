@@ -1,5 +1,4 @@
 # Brand_Selection
-Predicting customers brand preferences between 2 products (Sony &amp; Acer) based on salary, age.
 
 ## Data Overview:
 
