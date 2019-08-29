@@ -25,6 +25,3 @@ It is quite important to mention that during this analysis, it was shown that th
 The higher the age of the customer, the more their preference is to buy Sony instead Acer “this could be affected by the better income with higher age”.
 Adding to the previous notes, there is no significant correlation between the other variables and the brand.
 
-## The Results:
-
-Diving into the results of the prediction, it was clear that the customers did prefer Sony instead of Acer.
