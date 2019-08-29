@@ -5,9 +5,7 @@
 The dataset contains the answers of the survey including the following variables (Salary, Age, Education Level, Car, Zipcode, Credit, Brand). 
 The results of the survey were filled out by 10,000 of our existing customers.
 
-## Data Pre-processing:
 
-First step of the analysis was to pre-process the data (correcting types of variables, randomizing observations, cross validation). 
 
 ## Methods of Analysis:
 
