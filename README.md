@@ -1,6 +1,8 @@
 # Brand_Selection
 
+Data Overview:
 
+The dataset contains the answers of the survey including the following variables (Salary, Age, Education Level, Car, Zipcode, Credit, Brand). The results of the survey were filled out by 10,000 of our existing customers.
 
 ## Data Pre-processing:
 
